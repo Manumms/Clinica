@@ -1,1 +1,1 @@
-# projeto clinica, com login e landing page separado por branchs
+# projeto clínica, com login e landing page separados por branchs
